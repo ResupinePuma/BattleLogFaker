@@ -1,0 +1,14 @@
+C:\Users\Ivan\Desktop\bf4\EA\bin\Debug\EA.dll
+C:\Users\Ivan\Desktop\bf4\EA\bin\Debug\EA.pdb
+C:\Users\Ivan\Desktop\bf4\EA\bin\Debug\xNet.dll
+C:\Users\Ivan\Desktop\bf4\EA\obj\Debug\EA.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\bf4\EA\obj\Debug\EA.csproj.CopyComplete
+C:\Users\Ivan\Desktop\bf4\EA\obj\Debug\EA.dll
+C:\Users\Ivan\Desktop\bf4\EA\obj\Debug\EA.pdb
+C:\Users\cherc\Desktop\bf4\EA\bin\Debug\EA.dll
+C:\Users\cherc\Desktop\bf4\EA\bin\Debug\EA.pdb
+C:\Users\cherc\Desktop\bf4\EA\bin\Debug\xNet.dll
+C:\Users\cherc\Desktop\bf4\EA\obj\Debug\EA.csproj.CopyComplete
+C:\Users\cherc\Desktop\bf4\EA\obj\Debug\EA.dll
+C:\Users\cherc\Desktop\bf4\EA\obj\Debug\EA.pdb
+C:\Users\cherc\Desktop\bf4\EA\obj\Debug\EA.csprojAssemblyReference.cache

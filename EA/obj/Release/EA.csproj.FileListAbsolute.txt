@@ -1,0 +1,13 @@
+C:\Users\Ivan\Desktop\bf4\EA\bin\Release\EA.dll
+C:\Users\Ivan\Desktop\bf4\EA\bin\Release\EA.pdb
+C:\Users\Ivan\Desktop\bf4\EA\bin\Release\xNet.dll
+C:\Users\Ivan\Desktop\bf4\EA\obj\Release\EA.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\bf4\EA\obj\Release\EA.csproj.CopyComplete
+C:\Users\Ivan\Desktop\bf4\EA\obj\Release\EA.dll
+C:\Users\Ivan\Desktop\bf4\EA\obj\Release\EA.pdb
+C:\Users\cherc\Desktop\bf4\EA\bin\Release\EA.dll
+C:\Users\cherc\Desktop\bf4\EA\bin\Release\EA.pdb
+C:\Users\cherc\Desktop\bf4\EA\bin\Release\xNet.dll
+C:\Users\cherc\Desktop\bf4\EA\obj\Release\EA.csproj.CopyComplete
+C:\Users\cherc\Desktop\bf4\EA\obj\Release\EA.dll
+C:\Users\cherc\Desktop\bf4\EA\obj\Release\EA.pdb
